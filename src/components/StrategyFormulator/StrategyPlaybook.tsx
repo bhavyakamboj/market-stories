@@ -215,3 +215,4 @@ export const StrategyPlaybook: React.FC<Props> = ({ strategy }) => {
     </div>
   );
 };
+

@@ -101,3 +101,4 @@ export const PolicyRippleMap: React.FC<Props> = ({ policy }) => {
     </div>
   );
 };
+

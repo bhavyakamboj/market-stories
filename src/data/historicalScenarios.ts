@@ -136,3 +136,4 @@ export const HISTORICAL_ANALOGUES: HistoricalAnalogue[] = [
       'Markets bottom on peak pessimism, not when the economy is healed. Central bank liquidity bazookas overpower current earnings declines.',
   }
 ];
+

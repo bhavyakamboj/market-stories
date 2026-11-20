@@ -93,3 +93,4 @@ export const StoryCard: React.FC<Props> = ({ story, isSelected, onSelect }) => {
     </div>
   );
 };
+

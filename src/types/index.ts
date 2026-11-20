@@ -120,3 +120,4 @@ export interface UserPreferences {
   };
   riskTolerance: 'conservative' | 'balanced' | 'aggressive';
 }
+

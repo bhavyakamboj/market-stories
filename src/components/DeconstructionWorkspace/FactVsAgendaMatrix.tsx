@@ -139,3 +139,4 @@ export const FactVsAgendaMatrix: React.FC<Props> = ({ facts }) => {
     </div>
   );
 };
+

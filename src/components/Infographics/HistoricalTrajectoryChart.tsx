@@ -178,3 +178,4 @@ export const HistoricalTrajectoryChart: React.FC<Props> = ({ analogues }) => {
     </div>
   );
 };
+
